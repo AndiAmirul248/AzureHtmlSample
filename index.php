@@ -27,7 +27,7 @@
  </form>
  <?php
     $host = "codingatthenight.database.windows.net";
-    $user = "CodingAtTheNight";
+    $user = "codingatthenight";
     $pass = "Hacker721";
     $db = "dbCodingAtTheNight";
 
